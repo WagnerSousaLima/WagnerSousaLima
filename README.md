@@ -15,7 +15,7 @@
 🎓 *Graduating in Systems Analysis and Development at Senac-SP*<br />
   
   
-📚 *Studying to be the best back-end developer I can be*<br />
+📚 *Studying to be the best Front-end developer I can be*<br />
   
   
 🙋🏻 *Available and looking for an internship in software development*<br />
