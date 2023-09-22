@@ -5,14 +5,12 @@
 
 *Welcome to my Github profile. My name is Wagner Lima and I'm 32 years old.*
 
-*I love technology and how it can transform people's lives.*<br />
-*Because this, I'm computing, science, innovation and tech lover.*<br />
+*I love technology and how it can transform people's lives*<br />
+*because this, I'm computing, science, innovation and tech lover.*<br />
 
-📚 *Studying to be the best software developer I can be*<br />
-  
-🎓 *Graduating in Systems Analysis and Development at Senac-SP*<br />
-  
-🚀 *Software Development Intern at Compass UOL*<br /> 
+🎓 *Graduated in Systems Analysis and Development at Senac-SP.*<br />
+
+📚 *Always studying and practicing to become the best software developer I can be.*<br />
   
 🙋🏻 *Eager to embrace new opportunities and overcome challenges.*<br />
   
