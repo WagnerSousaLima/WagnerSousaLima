@@ -11,11 +11,12 @@ a technology enthusiast passionate about how it can positively impact people's l
 
 *🎓 Graduated in Systems Analysis and Development from Senac-SP.*<br />
 
+*💻 Front-End Developer at Compaas UOL.*<br />
+
 *📚 Always studying and practicing to improve as a software developer.*<br />
 
 *🚀 Passionate about computing, science, innovation, and technology.*<br />
 
-*🙋🏻‍♂️ Eager to embrace new opportunities and tackle challenges head-on.*<br />
   
   
  
