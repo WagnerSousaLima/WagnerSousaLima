@@ -9,9 +9,9 @@ a technology enthusiast passionate about how it can positively impact people's l
 *Here's a bit about me:*<br />
 
 
-*🎓 Graduated in Systems Analysis and Development from Senac-SP.*<br />
+*💻 Front-End Developer at Compass UOL.*<br />
 
-*💻 Front-End Developer at Compaas UOL.*<br />
+*🎓 Graduated in Systems Analysis and Development from Senac-SP.*<br />
 
 *📚 Always studying and practicing to improve as a software developer.*<br />
 
