@@ -15,7 +15,7 @@ a technology enthusiast passionate about how it can positively impact people's l
 
 *📚 Always studying and practicing to improve as a software developer.*<br />
 
-*🚀 Passionate about computing, science, innovation, and technology.*<br />
+*🚀 Enthusiastic about computing, science, innovation and technology.*<br />
 
   
   
