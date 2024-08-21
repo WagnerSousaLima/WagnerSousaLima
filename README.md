@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Wagner Lima, <br />
 a technology enthusiast focused on how technology can positively influence people's lives.
 
 ### A Bit About Me:
- 💻 **Full Stack Developer** at Compass UOL.<br /><br />
+ 💻 **Backend Developer** at Compass UOL.<br /><br />
  🎓 Graduated in **Systems Analysis and Development** from Senac-SP.<br /><br />
  📚 Committed to continuous learning and improvement as a software developer.<br /><br />
  🚀 Interested in **computing, science, innovation, and technology**.<br /><br />
@@ -26,7 +26,7 @@ Feel free to explore my repositories and connect with me!
   
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 <br /><br />
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
