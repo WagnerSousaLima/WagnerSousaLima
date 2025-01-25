@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Wagner Lima, <br />
 a technology enthusiast focused on how technology can positively influence people's lives.
 
 ### A Bit About Me:
- 💻 **Backend Developer** at Compass UOL.<br /><br />
+ 💻 **Backend Developer** <br /><br />
  🎓 Graduated in **Systems Analysis and Development** from Senac-SP.<br /><br />
  📚 Committed to continuous learning and improvement as a software developer.<br /><br />
  🚀 Interested in **computing, science, innovation, and technology**.<br /><br />
