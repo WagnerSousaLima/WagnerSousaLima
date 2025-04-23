@@ -1,17 +1,23 @@
-<div align="center">
+<div>
   
-## Hello Everyone! 👋
+## 👋 Hello! I'm Wagner Lima
 
-Welcome to my GitHub profile! I'm Wagner Lima, <br />
-a technology enthusiast focused on how technology can positively influence people's lives.
+I'm a Full Stack Developer with a strong focus on backend development using Java and Spring Boot, and hands-on experience with frontend technologies like React and TypeScript.
 
-### A Bit About Me:
- 💻 **Backend Developer** <br /><br />
- 🎓 Graduated in **Systems Analysis and Development** from Senac-SP.<br /><br />
- 📚 Committed to continuous learning and improvement as a software developer.<br /><br />
- 🚀 Interested in **computing, science, innovation, and technology**.<br /><br />
+### 👨‍💻 Tech Stack
+- Backend: Java · Spring Boot · REST APIs · Kafka · Oracle · MongoDB  
+- Frontend: React.js · TypeScript · BFF · Design Systems  
+- Cloud: AWS Certified Cloud Practitioner · CI/CD · Scalable Architectures
+
+### 🎓 Background
+- Degree in Systems Analysis and Development — Senac-SP  
+- Currently pursuing an MBA in Software Engineering — USP/ESALQ
+
+### 🚀 What I'm into
+I like working on well-structured solutions that make sense for the people using them. I'm not just focused on the tech — I care about how software fits into the bigger picture and solves real problems. Always learning, always improving.
 
 Feel free to explore my repositories and connect with me!
+
 
 </div>
 
