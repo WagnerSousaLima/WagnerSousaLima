@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a strong focus on backend development using Java
 
 ### 🎓 Background
 - Degree in Systems Analysis and Development — Senac-SP  
-- Currently pursuing an MBA in Software Engineering — USP/ESALQ
+- Currently pursuing an MBA in Software Engineering — Universidade de São Paulo/ESALQ
 
 ### 🚀 What I'm into
 I like working on well-structured solutions that make sense for the people using them. I'm not just focused on the tech — I care about how software fits into the bigger picture and solves real problems. Always learning, always improving.
