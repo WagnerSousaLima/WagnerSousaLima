@@ -1,22 +1,49 @@
 <div>
   
-## 👋 Hello! I'm Wagner Lima
+# Hi, I'm Wagner 👋
 
-I'm a Full Stack Developer with a strong focus on backend development using Java and Spring Boot, and hands-on experience with frontend technologies like React and TypeScript.
+Backend Software Developer focused on **Java and Spring Boot**, with experience building **microservices**, **REST APIs**, and asynchronous messaging using **Apache Kafka** in corporate and financial environments.
 
-### 👨‍💻 Tech Stack
-- Backend: Java · Spring Boot · REST APIs · Kafka · Oracle · MongoDB  
-- Frontend: React.js · TypeScript · BFF · Design Systems  
-- Cloud: AWS Certified Cloud Practitioner · CI/CD · Scalable Architectures
+I have worked on systems that require **high reliability, scalability, and integration with external services**, including **SOAP and REST integrations**, process automation, and data persistence with **Oracle** and **MongoDB**.
 
-### 🎓 Background
-- Degree in Systems Analysis and Development — Senac-SP  
-- Currently pursuing an MBA in Software Engineering — Universidade de São Paulo/ESALQ
+I also have complementary experience with **React and TypeScript**, mainly for **BFFs** and frontend-backend integrations.
 
-### 🚀 What I'm into
-I like working on well-structured solutions that make sense for the people using them. I'm not just focused on the tech — I care about how software fits into the bigger picture and solves real problems. Always learning, always improving.
+---
 
-Feel free to explore my repositories and connect with me!
+## 🧰 Tech Stack
+
+**Backend**
+Java • Spring Boot • Spring MVC • Spring Data JPA • Microservices • REST • SOAP • Kafka
+
+**Frontend (supporting role)**
+React • TypeScript • JavaScript
+
+**Databases**
+Oracle • MongoDB
+
+**Cloud & DevOps**
+AWS (EC2, RDS, S3, IAM) • Docker • Git • Gradle
+
+---
+
+## 💼 Professional Background
+
+* Experience in **financial and enterprise systems**, working with distributed architectures and critical production environments
+* Strong focus on **clean code**, maintainability, and system stability
+* Ability to understand **business requirements** and translate them into technical solutions
+
+---
+
+## 📌 What you'll find here
+
+* Backend-focused projects using **Java and Spring Boot**
+* Examples of **REST APIs**, messaging, and integrations
+* Well-documented repositories with clear setup instructions
+
+---
+
+> AWS Certified Cloud Practitioner
+
 
 
 </div>
