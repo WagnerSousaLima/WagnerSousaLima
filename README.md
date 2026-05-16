@@ -1,12 +1,13 @@
 <div align="center">
 
 # Wagner Lima 👋  
-### Software Engineer | Backend & Distributed Systems
+### Software Engineer | Backend & Distributed Systems | Tech Educator
 
-Building resilient and scalable backend systems with Java and Spring Boot.
+Building resilient backend systems, architecting B2B SaaS products, and empowering the next generation of tech talent.
 
-🎓 MBA in Software Engineering   
-☁ AWS Certified Cloud Practitioner  
+🎓 MBA in Software Engineering (USP/ESALQ)   
+☁️ AWS Certified Cloud Practitioner | GCP Foundations  
+👨‍🏫 Technology Instructor
 
 </div>
 
@@ -14,16 +15,18 @@ Building resilient and scalable backend systems with Java and Spring Boot.
 
 ## 🚀 About Me
 
-I’m a Software Engineer focused on designing and implementing **scalable, reliable, and maintainable backend systems**.
+I’m a Software Engineer focused on designing and implementing **scalable, reliable, and maintainable backend systems** (Java/Spring Boot). 
 
-My experience includes building **microservices-based architectures**, RESTful APIs, and asynchronous workflows using **Apache Kafka**, primarily in **enterprise and financial environments** where performance and reliability are critical.
+My technical foundation was built in **highly critical enterprise and financial environments**, developing microservices architectures, asynchronous workflows with **Apache Kafka**, and integrations (REST/SOAP) where performance is non-negotiable.
+
+Currently, my focus spans across two main pillars:
+1. **Product & Architecture:** Architecting and developing a B2B SaaS ERP from scratch, managing everything from data persistence to AI and Stripe integrations.
+2. **Tech Education:** Working as a Technology Instructor, translating complex software engineering concepts and clean architecture principles for classes of 40+ students transitioning into the tech industry.
 
 I work with a strong focus on:
-
-- Clean Architecture  
-- System scalability  
-- Production reliability  
+- Clean Architecture & System Scalability  
 - Business-driven technical solutions  
+- Mentorship and technical communication  
 
 ---
 
@@ -32,11 +35,11 @@ I work with a strong focus on:
 ### Backend
 Java • Spring Boot • Spring Data JPA • REST • SOAP • Microservices • Kafka
 
-### Cloud & DevOps
-AWS (EC2, RDS, S3, IAM) • Docker • Git • Gradle
-
 ### Databases
-Oracle • MongoDB
+PostgreSQL (Supabase) • Oracle • MongoDB
+
+### Cloud & DevOps
+AWS (EC2, RDS, S3, IAM) • Google Cloud Platform (GCP) • Docker • Git 
 
 ### Frontend (Supporting Role)
 React • TypeScript • JavaScript
@@ -46,17 +49,17 @@ React • TypeScript • JavaScript
 ## 🧠 Engineering Approach
 
 - Designing distributed systems for scalability and resilience  
-- Building well-structured and maintainable codebases  
-- Translating complex business rules into clean technical solutions  
-- Working in critical production environments  
+- Building well-structured, maintainable, and easily testable codebases  
+- Translating complex business requirements into clean technical solutions  
+- Breaking down high-level architectural concepts to educate and mentor peers  
 
 ---
 
 ## 📂 What You’ll Find Here
 
 - Backend projects built with Java and Spring Boot  
-- Microservices and messaging-driven applications  
-- Integration-focused systems (REST & SOAP)  
+- Integration-focused systems and asynchronous messaging architectures  
+- Full-stack SaaS concepts and integrations 
 - Well-documented repositories with clear setup instructions  
 
 ---
